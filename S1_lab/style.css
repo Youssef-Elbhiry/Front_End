@@ -1,0 +1,47 @@
+
+/* text align*/
+p{
+    /*text-align:right;*/
+     /* text transformation */
+      /* none, capitalize, uppercase, lowercase */
+    /* text-transform:uppercase;*/
+
+     /* text spacing */
+     text-indent:1em;
+   /*  letter-spacing:10px;*/
+  /*
+   line-height:25px;
+*/
+   /*white space*/
+   /*
+   white-space:nowrap;
+   */
+   /*text shadwo*/
+/*
+  text-shadow:-20px -7px 0px red;
+*/
+/*text decoration*/
+/*
+text-decoration: line-through;
+text-decoration-style:dotted;
+text-decoration-color:blue;
+text-decoration-thickness: 2px;
+*/
+/*
+text-decoration: underline solid red 2px;
+*/
+/* fonts */
+font-size: 20px;
+font-weight: bold;
+font-variant: small-caps;
+font-style: italic;
+}
+div{
+    height:400px;
+    width: 400px;
+    background: red;
+   /* border-bottom: solid blue 2px;*/
+   border-bottom-style:dashed;
+   border-bottom-color: blueviolet;
+   border-bottom-width:4px;
+}
